@@ -1,0 +1,522 @@
+.one h1{
+	font-family: "Comic Sans MS";
+	color: 	#003e06;
+	text-align: center;
+}
+
+.one h2{
+	font-family: "Comic Sans MS";
+	color: 	#003e06;
+	text-align: center;
+}
+
+
+
+.one{
+	
+	background-image: url("green bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+}
+
+.one p{
+	font-family: "Ink Free";
+	color: #228B22;
+	text-align: center;
+}
+
+.one button{
+	color: black;
+	padding:  10;
+	border-width:10;
+	border-color:rgb(11, 122, 141);
+	margin: 10;	
+	font-family: "Comic Sans MS";
+	border-style: double;
+	position: relative;
+	left: 35%;
+	
+	
+}
+
+
+
+
+.noo p{
+	color: rgb(255, 190, 120);
+
+}
+
+.pa p{
+	color: yellow;
+}
+
+.fre p{
+	color: red;
+}
+
+.car p{
+	color: orange;
+}
+
+.ice p{
+	color: brown;
+}
+
+.one img{
+	position: relative;
+	left: 7%
+}
+.blues img{
+	position: relative;
+	left: 35%
+}
+.greens img{
+	position: relative;
+	left: 37%
+}
+
+.buttonsforfav {
+	position: fixed;
+	left: 29%;
+}
+
+.coding {
+	position: relative;
+	left: 35%;
+	top: 0px;
+}
+
+.mer {
+	position: relative;
+	top: 5%;
+}
+
+.games img{
+	position: relative;
+	left: 2%;
+}
+
+.hobbybutton{
+	position: fixed;
+	left: 26%;
+}
+
+.blues {
+	position: relative;
+}
+.blues p{
+	position: absolute;
+	opacity: 0;
+	left: 50%;
+	
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.blues:hover p{
+	opacity:1;
+}
+
+.blues:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+.greens {
+	position: relative;
+}
+.greens p{
+	position: absolute;
+	opacity: 0;
+	left: 50%;
+	
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.greens:hover p{
+	opacity:1;
+}
+
+.greens:hover img{
+	opacity: 0.33;
+}
+
+
+.foodies {
+	position: relative;
+}
+.foodies p{
+	position: absolute;
+	opacity: 0;
+	left: 50%;
+	
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.foodies:hover p{
+	opacity:1;
+}
+
+.foodies:hover img{
+	opacity: 0.33;
+}
+
+.reading {
+	position: relative;
+}
+.reading p{
+	position: absolute;
+	opacity: 0;
+	left:15%;
+	
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.reading:hover p{
+	opacity:1;
+}
+
+.reading:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+
+
+.mer {
+	position: relative;
+}
+.mer p{
+	position: absolute;
+	opacity: 0;
+	left:17%;
+	
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.mer:hover p{
+	opacity:1;
+}
+
+.mer:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+
+
+.coding {
+	position: relative;
+}
+.coding p{
+	position: absolute;
+	opacity: 0;
+	left:21%;
+	
+	top: 50%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.coding:hover p{
+	opacity:1;
+}
+
+.coding:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+.dolphin {
+	position: relative;
+	left: 1%;
+}
+.dolphin p{
+	position: absolute;
+	opacity: 0;
+	left:5%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.dolphin:hover p{
+	opacity:1;
+}
+
+.dolphin:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+.clock {
+	position: relative;
+	left: 70%;
+	
+	
+}
+.clock p{
+	position: absolute;
+	opacity: 0;
+	left:5%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.clock:hover p{
+	opacity:1;
+}
+
+.clock:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+.dogchase {
+	position: relative;
+	left: 70%;
+}
+.dogchase p{
+	position: absolute;
+	opacity: 0;
+	left:5%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.dogchase:hover p{
+	opacity:1;
+}
+
+.dogchase:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+.ninga {
+	position: relative;
+	
+	left: 1%;
+}
+.ninga p{
+	position: absolute;
+	opacity: 0;
+	left:5%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.ninga:hover p{
+	opacity:1;
+}
+
+.ninga:hover img{
+	opacity: 0.33;
+	
+}
+
+
+
+
+.bowling {
+	position: relative;
+	left: 1%;
+}
+.bowling p{
+	position: absolute;
+	opacity: 0;
+	left:5%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.bowling:hover p{
+	opacity:1;
+}
+
+.bowling:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+
+
+
+
+
+
+.nature {
+	position: relative;
+	left: 10%;
+}
+.nature p{
+	position: absolute;
+	opacity: 0;
+	left:38%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.nature:hover p{
+	opacity:1;
+}
+
+.nature:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+
+
+
+.robot {
+	position: relative;
+	left: 25%;
+}
+.robot p{
+	position: absolute;
+	opacity: 0;
+	left:23%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.robot:hover p{
+	opacity:1;
+}
+
+.robot:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.laugh {
+	position: relative;
+	left: 1%;
+}
+.laugh p{
+	position: absolute;
+	opacity: 0;
+	left:12%;
+	
+	top: 5%;
+	
+	transform: translate(-50%, -50%);
+	
+	
+	
+}
+
+.laugh:hover p{
+	opacity:1;
+}
+
+.laugh:hover img{
+	opacity: 0.33;
+}
+
+
+
+
+
